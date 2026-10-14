@@ -33,5 +33,5 @@ Open Source Enthusiast working with all things spatial.
 
 ### 📫 Connect With Me
 * **LinkedIn:** [linkedin.com/in/emiehnstrom](https://linkedin.com)
-* **Mastodon:** [@emilehnstrom]([https://x.com](https://mapstodon.space/@emilehnstrom))
+* **Mastodon:** [@emilehnstrom](https://mapstodon.space/@emilehnstrom)
 * **Email:** [emil.ehnstrom@gispo.fi](mailto:emil.ehnstrom@gispo.fi)
